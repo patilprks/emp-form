@@ -1,0 +1,30 @@
+* {
+  font-family: 'Roboto', sans-serif !important;
+}
+
+.App {
+  text-align: center;
+}
+
+.user-form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.user-form .sub-title {
+  margin: 0 15px;
+}
+
+
+.btn-display{
+   margin-right: 20px!important;
+}
+
+.emp-records{
+  margin-top: 50px;
+}
+.pd-0{
+  padding: 1px!important;
+}
